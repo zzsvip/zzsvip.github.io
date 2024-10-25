@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zzsvip.github.io</id>
+    <title>古怪小硕</title>
+    <updated>2024-10-25T10:42:45.532Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zzsvip.github.io"/>
+    <link rel="self" href="https://zzsvip.github.io/atom.xml"/>
+    <subtitle>这里想写什么都行</subtitle>
+    <logo>https://zzsvip.github.io/images/avatar.png</logo>
+    <icon>https://zzsvip.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 古怪小硕</rights>
+    <entry>
+        <title type="html"><![CDATA[北京冬奥会]]></title>
+        <id>https://zzsvip.github.io/post/bei-jing-dong-ao-hui/</id>
+        <link href="https://zzsvip.github.io/post/bei-jing-dong-ao-hui/">
+        </link>
+        <updated>2024-05-21T13:32:05.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=68138859&bvid=BV1rJ411w7Bm&cid=118104616&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京奥运会吉祥物]]></title>
+        <id>https://zzsvip.github.io/post/bei-jing-ao-yun-hui-ji-xiang-wu-1/</id>
+        <link href="https://zzsvip.github.io/post/bei-jing-ao-yun-hui-ji-xiang-wu-1/">
+        </link>
+        <updated>2024-05-21T13:20:39.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=804471484&bvid=BV1Sy4y1j7FW&cid=378131665&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++常用代码！！！]]></title>
+        <id>https://zzsvip.github.io/post/cchang-yong-dai-ma/</id>
+        <link href="https://zzsvip.github.io/post/cchang-yong-dai-ma/">
+        </link>
+        <updated>2024-05-18T09:05:47.000Z</updated>
+        <content type="html"><![CDATA[<p>include 包含<br>
+iostream 输出输入头文件<br>
+using 使用<br>
+namespace 命名空间<br>
+std 标准的缩写<br>
+main 主函数<br>
+int 声明整型变量或函数<br>
+char 声明字符型变量或函数<br>
+double 声明双精度变量或函数<br>
+float 声明浮点型变量或函数<br>
+long 声明长整型变量或函数<br>
+short 声明短整型变量或函数<br>
+signed 声明有符号类型变量或函数<br>
+unsigned 声明无符号类型变量或函数<br>
+enum 声明枚举类型<br>
+struct 声明结构体变量或函数<br>
+union 声明共用体（联合）数据类型<br>
+cin 输入命令<br>
+cout 输出命令<br>
+endl end line的缩写，换行<br>
+scanf 输入命令<br>
+printf 输出命令<br>
+void 声明函数无返回值或无参数，声明无类型指针<br>
+for 一种循环语句<br>
+do 循环语句的循环体<br>
+while 循环语句的循环条件<br>
+break 跳出当前循环<br>
+continue 结束当前循环，开始下一轮循环<br>
+if 条件语句<br>
+else 条件语句否定分支（与if连用）<br>
+goto 无条件跳转语句<br>
+switch 用于开关语句<br>
+case 开关语句分支<br>
+default 开关语句中的“其他”分支<br>
+return 子程序返回语句（可以带参数，也可以不带参数）<br>
+static 声明静态变量<br>
+const 声明只读变量（注意是变量）<br>
+sizrof 计算数据类型长度<br>
+typedef 用于给数据类型取别名（当然还有其他作用）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://zzsvip.github.io/post/hello-gridea/</id>
+        <link href="https://zzsvip.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>

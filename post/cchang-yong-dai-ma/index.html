@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>C++常用代码！！！ | 古怪小硕</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://zzsvip.github.io/favicon.ico?v=1729848267866">
+<link rel="stylesheet" href="https://zzsvip.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="include 包含
+iostream 输出输入头文件
+using 使用
+namespace 命名空间
+std 标准的缩写
+main 主函数
+int 声明整型变量或函数
+char 声明字符型变量或函数
+double 声明双精度变量或函数
+f..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://zzsvip.github.io">
+        <img src="https://zzsvip.github.io/images/avatar.png?v=1729848267866" class="site-logo">
+        <h1 class="site-title">古怪小硕</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      这里想写什么都行
+    </div>
+    <div class="site-footer">
+      友情链接<a href="https://home.zhikulego.cn" target="_blank">   智库导航</a>
+
+友情链接<a href="https://zhihui.edu-code.cn/" target="_blank">   智慧编程</a>
+
+
+
+ | <a class="rss" href="https://zzsvip.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">C++常用代码！！！</h2>
+            <div class="post-date">2024-05-18</div>
+            
+            <div class="post-content" v-pre>
+              <p>include 包含<br>
+iostream 输出输入头文件<br>
+using 使用<br>
+namespace 命名空间<br>
+std 标准的缩写<br>
+main 主函数<br>
+int 声明整型变量或函数<br>
+char 声明字符型变量或函数<br>
+double 声明双精度变量或函数<br>
+float 声明浮点型变量或函数<br>
+long 声明长整型变量或函数<br>
+short 声明短整型变量或函数<br>
+signed 声明有符号类型变量或函数<br>
+unsigned 声明无符号类型变量或函数<br>
+enum 声明枚举类型<br>
+struct 声明结构体变量或函数<br>
+union 声明共用体（联合）数据类型<br>
+cin 输入命令<br>
+cout 输出命令<br>
+endl end line的缩写，换行<br>
+scanf 输入命令<br>
+printf 输出命令<br>
+void 声明函数无返回值或无参数，声明无类型指针<br>
+for 一种循环语句<br>
+do 循环语句的循环体<br>
+while 循环语句的循环条件<br>
+break 跳出当前循环<br>
+continue 结束当前循环，开始下一轮循环<br>
+if 条件语句<br>
+else 条件语句否定分支（与if连用）<br>
+goto 无条件跳转语句<br>
+switch 用于开关语句<br>
+case 开关语句分支<br>
+default 开关语句中的“其他”分支<br>
+return 子程序返回语句（可以带参数，也可以不带参数）<br>
+static 声明静态变量<br>
+const 声明只读变量（注意是变量）<br>
+sizrof 计算数据类型长度<br>
+typedef 用于给数据类型取别名（当然还有其他作用）</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://zzsvip.github.io/post/hello-gridea/">
+                  <h3 class="post-title">
+                    Hello Gridea
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
